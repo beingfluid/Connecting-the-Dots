@@ -1,1 +1,1 @@
-# Connecting-the-Dots
+![Connecting the Dots](./images/telco.1.png)
